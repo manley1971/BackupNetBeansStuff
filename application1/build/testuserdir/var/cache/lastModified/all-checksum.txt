@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.0\platform=1407370348591
+cluster.C:/Users/manley/Documents/NetBeansProjects/application1/build/cluster=1408667384543
+cluster.C:/Program Files/NetBeans 8.0/platform=1407370348591
+user=1408667384543
+crc=7
+locale=en_US
+branding=application1
+java.version=1.8.0_11
+java.vm.version=25.11-b03
